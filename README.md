@@ -43,6 +43,6 @@ To get a local copy up and running, follow these steps:
    npm start
 
 
-
+If the Map is not coming then please either try in incognito or clear caches
 
 
